@@ -10,7 +10,7 @@
       "/core-service=management",
       "/subsystem=batch-jberet",
       "/subsystem=bean-validation",
-      "/subsystem=cassandra",
+      "/subsystem=cassandradriver",
       "/subsystem=datasources",
       "/subsystem=ee",
       "/subsystem=ejb3",
