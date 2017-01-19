@@ -32,6 +32,7 @@
       "/subsystem=mongodb",
       "/subsystem=naming",
       "/subsystem=neo4jdriver",
+      "/subsystem=orientdb",
       "/subsystem=pojo",
       "/subsystem=request-controller",
       "/subsystem=remoting",
